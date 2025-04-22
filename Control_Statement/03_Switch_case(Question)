@@ -22,9 +22,7 @@ d. Exit
 
 Convert the following if-else-if construct into a Java switch-case statement:
 
-java
-Copy
-Edit
+
 if(var == 1)
     System.out.println("good");
 else if(var == 2)
